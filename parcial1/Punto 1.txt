@@ -1,0 +1,5 @@
+  open()                                         Abre un archivo
+ close()                                       Cierra un archivo
+getpid() Devuelve el identificador de proceso del proceso actual
+rename()                          Cambia el nombre de un archivo
+remove()                                      Elimina un archivo

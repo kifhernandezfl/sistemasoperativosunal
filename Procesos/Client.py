@@ -1,6 +1,6 @@
 import socket
 
-host = socket.gethostname()
+host = '127.0.0.1'
 port = 5656
 buffer_size = 1024
 print('Nombre:')
